@@ -1,4 +1,5 @@
-### IOS Developer ![apple (1)](https://github.com/Ozgundogus/ozgundogus/assets/43118369/3a344e9b-98c4-4bce-90d4-93b36e18b42c)
+### IOS Developer 
+
 
 
 <!--
