@@ -1,5 +1,5 @@
-### IOS Developer 
-![apple](https://github.com/Ozgundogus/ozgundogus/assets/43118369/a0403075-3284-4cb8-8397-8ffba315568a)
+### IOS Developer ![apple (1)](https://github.com/Ozgundogus/ozgundogus/assets/43118369/3a344e9b-98c4-4bce-90d4-93b36e18b42c)
+
 
 <!--
 **Ozgundogus/ozgundogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
