@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozgun Dogus Can</h1>
-<h3 align="center">I have been interested in mobile application development.</h3>
+<h3 align="center">İOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgundogus&label=Profile%20views&color=0e75b6&style=flat" alt="ozgundogus" /> </p>
 
