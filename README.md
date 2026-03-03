@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en" alt="ozgundogus" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="ozgundogus" />
 </p>
 
 <p>
