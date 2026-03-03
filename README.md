@@ -30,18 +30,18 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ozgundogus&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
+    <img src="https://github-trophies.vercel.app/?username=ozgundogus&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
   </a>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en" alt="ozgundogus" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en" alt="ozgundogus" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgundogus&theme=tokyonight" alt="streak"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=ozgundogus&theme=tokyonight" alt="streak"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgundogus&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozgundogus&layout=compact&theme=tokyonight" alt="top-langs"/>
 </p>
