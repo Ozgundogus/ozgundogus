@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozgun Dogus Can</h1>
-<h3 align="center">İOS Developer</h3>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/iOS_Developer-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Developer"/>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgundogus&label=Profile%20views&color=0e75b6&style=flat" alt="ozgundogus" /> </p>
 
@@ -13,33 +15,33 @@
 <a href="https://www.linkedin.com/in/ozgundoguscan" target="blank">
   <img align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="https://www.linkedin.com/in/ozgundoguscan" height="30" width="40" />
+       alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,rust,firebase,supabase,git" />
   </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/OneSignal-E8344E?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ozgundogus&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
   </a>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgundogus&show_icons=true&locale=en" alt="ozgundogus" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en" alt="ozgundogus" />
 </p>
 
-<!--
-**Ozgundogus/ozgundogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
-appears on your GitHub profile. Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgundogus&theme=tokyonight" alt="streak"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgundogus&layout=compact&theme=tokyonight" alt="top-langs"/>
+</p>
