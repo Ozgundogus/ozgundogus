@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en" alt="ozgundogus" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ozgundogus&show_icons=true&theme=tokyonight&locale=en" alt="ozgundogus" />
 </p>
 
 <p>
@@ -43,5 +43,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozgundogus&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ozgundogus&layout=compact&theme=tokyonight" alt="top-langs"/>
 </p>
