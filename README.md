@@ -20,25 +20,18 @@
 </p>
 
 <h3 align="left">My Apps:</h3>
-<p align="center">
+<p align="left">
   <a href="https://apps.apple.com/tr/app/aria-ai-ai-m%C3%BCzik-%C5%9Fark%C4%B1/id6737136653?l=tr">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/47/8e/2a478e01-5021-64f8-11e8-81d842e4b30c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="Aria AI"/>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/47/8e/2a478e01-5021-64f8-11e8-81d842e4b30c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="50" alt="Aria AI"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://apps.apple.com/tr/app/vise-ai-ai-logo-maker/id6738852244?l=tr">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/83/b0/be83b061-2802-1e55-8db0-1518632c9b9f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="Vise AI"/>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/83/b0/be83b061-2802-1e55-8db0-1518632c9b9f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="50" alt="Vise AI"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://apps.apple.com/tr/app/coin-identifier-coins/id6740091647?l=tr">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c1/51/edc151cc-da82-f3b5-8237-3664a59f0321/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg" width="80" style="border-radius:18px" alt="Coin Identifier"/>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c1/51/edc151cc-da82-f3b5-8237-3664a59f0321/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.jpg" width="50" alt="Coin Identifier"/>
   </a>
-</p>
-<p align="center">
-  <a href="https://apps.apple.com/tr/app/aria-ai-ai-m%C3%BCzik-%C5%9Fark%C4%B1/id6737136653?l=tr"><b>Aria AI</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://apps.apple.com/tr/app/vise-ai-ai-logo-maker/id6738852244?l=tr"><b>Vise AI</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://apps.apple.com/tr/app/coin-identifier-coins/id6740091647?l=tr"><b>Coin Identifier</b></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
