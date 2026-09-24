@@ -24,6 +24,7 @@
   <a href="https://apps.apple.com/tr/app/aria-ai-ai-m%C3%BCzik-%C5%9Fark%C4%B1/id6737136653?l=tr"><img src="https://raw.githubusercontent.com/Ozgundogus/ozgundogus/main/assets/aria.png" width="50" alt="Aria AI"/></a>
   <a href="https://apps.apple.com/tr/app/vise-ai-ai-logo-maker/id6738852244?l=tr"><img src="https://raw.githubusercontent.com/Ozgundogus/ozgundogus/main/assets/vise.png" width="50" alt="Vise AI"/></a>
   <a href="https://apps.apple.com/tr/app/coin-identifier-coins/id6740091647?l=tr"><img src="https://raw.githubusercontent.com/Ozgundogus/ozgundogus/main/assets/coin.png" width="50" alt="Coin Identifier"/></a>
+  <a href="https://apps.apple.com/us/app/inksphere-ai-tattoo-design/id6749191414"><img src="https://raw.githubusercontent.com/Ozgundogus/ozgundogus/main/assets/inksphere.png" width="50" alt="InkSphere AI"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
